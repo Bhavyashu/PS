@@ -1,0 +1,18 @@
+{
+    "channelConfigPath": "./network/local/channel/assemble.tx",
+    "eventWaitTime": 600000,
+    "loglevel": "INFO",
+    "chaincodePath": "./chaincode/token-erc-721/chaincode-go/",
+    "adminList": [
+        {
+            "org": "owner",
+            "username": "admin",
+            "password": "adminpw"
+        },
+        {
+            "org": "seller",
+            "username": "admin",
+            "password": "adminpw"
+        }
+    ]
+}
