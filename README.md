@@ -1,4 +1,5 @@
-# Real Estate Blockchain Web App
+# 🏘️Real Estate ⛓️Blockchain 💻Web App
+Hello 👋, Welcome to my project let me save you 🦸🏽‍♂️ from all the complex structure and overwhemling amount of folders🥴 and guide you how to run this application😊.
 
 This is a blockchain-powered web application built using Hyperledger Fabric to manage real estate transactions. The application uses a permissioned and kafka architecture to ensure security, transparency and consistency throughout the blockchain network.
 
