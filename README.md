@@ -59,5 +59,5 @@ To run the application, follow these steps:
    This will start the application and launch it in your default browser.
 
 ## Conclusion
-This project demonstrates how Hyperledger Fabric can be used to build decentralized applications that ensure transparency, security, and trust in real estate transactions.
+This project demonstrates how Hyperledger Fabric can be used to build real life applications that ensure transparency, security, and trust in transactions.
 
